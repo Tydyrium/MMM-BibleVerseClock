@@ -1,0 +1,42 @@
+.MMM-BibleVerseClock {
+    max-width: 100vh;
+    height: auto;
+    max-height: auto;
+    line-height: 1em;
+}
+
+.MMM-BibleVerseClock .xsmall,
+.MMM-BibleVerseClock .default {
+    max-width: 50vh;
+}
+
+.MMM-BibleVerseClock .small {
+    max-width: 60vh;
+}
+
+.MMM-BibleVerseClock .medium {
+    max-width: 75vh;
+}
+
+.MMM-BibleVerseClock .mediumNarrow {
+    max-width: 40vh;
+}
+
+
+.MMM-BibleVerseClock .large {
+    max-width: 100vh;
+}
+.book {
+	/* no changes currently */
+}
+.reference {
+	font-weight: bold;
+	font-size: 1.4em;
+}
+.verseText {
+	/* no changes currently */
+}
+.translation {
+	font-style: italic;
+	font-size: 0.6em;
+}

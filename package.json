@@ -1,0 +1,22 @@
+{
+  "name": "mmm-BibleVerseClock",
+  "version": "1.0.0",
+  "description": "Magic mirror module which displays Bible clock",
+  "main": "MMM-BibleVerseClock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurgarzajr/MMM-BibleVerseClock.git"
+  },
+  "author": "Nathan O'Grady",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurgarzajr/MMM-BibleVerseClock/issues"
+  },
+  "homepage": "https://github.com/arthurgarzajr/MMM-BibleVerseClock#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
